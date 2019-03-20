@@ -1,0 +1,6 @@
+c:\users\simon\documents\visual studio 2017\Projects\SensitivityTableChanger\SensitivityTableChanger\bin\Debug\SensitivityTableChanger.exe.config
+c:\users\simon\documents\visual studio 2017\Projects\SensitivityTableChanger\SensitivityTableChanger\bin\Debug\SensitivityTableChanger.exe
+c:\users\simon\documents\visual studio 2017\Projects\SensitivityTableChanger\SensitivityTableChanger\bin\Debug\SensitivityTableChanger.pdb
+c:\users\simon\documents\visual studio 2017\Projects\SensitivityTableChanger\SensitivityTableChanger\obj\Debug\SensitivityTableChanger.csprojResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2017\Projects\SensitivityTableChanger\SensitivityTableChanger\obj\Debug\SensitivityTableChanger.exe
+c:\users\simon\documents\visual studio 2017\Projects\SensitivityTableChanger\SensitivityTableChanger\obj\Debug\SensitivityTableChanger.pdb
